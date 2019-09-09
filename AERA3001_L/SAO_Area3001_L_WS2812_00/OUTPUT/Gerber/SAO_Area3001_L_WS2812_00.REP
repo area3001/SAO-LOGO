@@ -1,0 +1,233 @@
+*************************************************************
+FileName = SAO_Area3001_L_WS2812_00.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : SAO_Area3001_L_WS2812_00.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : SAO_Area3001_L_WS2812_00.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D17
+    D18
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SAO_Area3001_L_WS2812_00.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Fabrication
+      File : SAO_Area3001_L_WS2812_00.GM6
+
+    Adding Layer      : Fabrication
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SAO_Area3001_L_WS2812_00.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SAO_Area3001_L_WS2812_00.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SAO_Area3001_L_WS2812_00.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SAO_Area3001_L_WS2812_00.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SAO_Area3001_L_WS2812_00.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SAO_Area3001_L_WS2812_00.GD1
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Frame
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D15
+    D16
+    D31
+    D32
+*************************************************************
+

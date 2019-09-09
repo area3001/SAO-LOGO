@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SAO_Area3001_L_WS2812_00.PcbDoc]
+   Generated File[SAO_Area3001_L_WS2812_00.TXT]
+   Generated File[SAO_Area3001_L_WS2812_00.LDP]
+   Generated File[SAO_Area3001_L_WS2812_00.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:30:23 On 17/08/2019

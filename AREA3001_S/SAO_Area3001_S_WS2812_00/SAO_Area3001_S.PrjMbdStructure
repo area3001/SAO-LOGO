@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=SAO_Area3001_S.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\SAO_Area3001_S_Ring_00\SAO_Area3001_S_Ring_00.PrjPcb
+Record=SubProject|SourceDocument=SAO_Area3001_S.MbsDoc|ProjectPath=..\SAO_Area3001_S_Ring_00\SAO_Area3001_S_Ring_00.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SAO_Area3001_S.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\SAO_Area3001_S_TOP_00\SAO_Area3001_S_TOP_00.PrjPcb
+Record=SubProject|SourceDocument=SAO_Area3001_S.MbsDoc|ProjectPath=..\SAO_Area3001_S_TOP_00\SAO_Area3001_S_TOP_00.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SAO_Area3001_S.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=SAO_Area3001_S_WS2812_00.PrjPcb
+Record=SubProject|SourceDocument=SAO_Area3001_S.MbsDoc|ProjectPath=SAO_Area3001_S_WS2812_00.PrjPcb
